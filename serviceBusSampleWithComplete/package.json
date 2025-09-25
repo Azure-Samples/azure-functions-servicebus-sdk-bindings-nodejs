@@ -11,9 +11,8 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-        "minimist": "^1.2.8",
-    "@azure/functions": "4.7.2-preview",
-    "@azure/functions-extensions-servicebus": "0.1.0-preview"
+    "@azure/functions": "4.7.4-preview",
+    "@azure/functions-extensions-servicebus": "0.2.0-preview"
   },
   "devDependencies": {
     "@types/node": "^20.x",
